@@ -1,2 +1,2 @@
 # Java
-Java codes in this repository
+Java codes are placed in this repository
